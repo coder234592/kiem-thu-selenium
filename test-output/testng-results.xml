@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-19T11:21:54 ICT" name="Command line suite" finished-at="2025-01-19T11:22:00 ICT" duration-ms="6455">
+    <groups>
+    </groups>
+    <test started-at="2025-01-19T11:21:54 ICT" name="Command line test" finished-at="2025-01-19T11:22:00 ICT" duration-ms="6455">
+      <class name="test.WebTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.WebTest@706a04ae]" started-at="2025-01-19T11:21:54 ICT" name="setUp" finished-at="2025-01-19T11:21:58 ICT" duration-ms="3731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidLogin()[pri:1, instance:test.WebTest@706a04ae]" started-at="2025-01-19T11:21:58 ICT" name="testInvalidLogin" finished-at="2025-01-19T11:21:58 ICT" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method signature="testValidLogin()[pri:2, instance:test.WebTest@706a04ae]" started-at="2025-01-19T11:21:58 ICT" name="testValidLogin" finished-at="2025-01-19T11:21:59 ICT" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method signature="testSearchValidProduct()[pri:3, instance:test.WebTest@706a04ae]" started-at="2025-01-19T11:21:59 ICT" name="testSearchValidProduct" finished-at="2025-01-19T11:21:59 ICT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchValidProduct -->
+        <test-method signature="testSearchInvalidProduct()[pri:4, instance:test.WebTest@706a04ae]" started-at="2025-01-19T11:21:59 ICT" name="testSearchInvalidProduct" finished-at="2025-01-19T11:22:00 ICT" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchInvalidProduct -->
+        <test-method signature="testLogout()[pri:5, instance:test.WebTest@706a04ae]" started-at="2025-01-19T11:22:00 ICT" name="testLogout" finished-at="2025-01-19T11:22:00 ICT" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.WebTest@706a04ae]" started-at="2025-01-19T11:22:00 ICT" name="tearDown" finished-at="2025-01-19T11:22:00 ICT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.WebTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
